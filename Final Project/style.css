@@ -1,0 +1,39 @@
+body {
+
+    text-align: center;
+    font-family: 'Inria Serif', serif;
+
+background: url("images/background.png") center no-repeat fixed;
+
+}
+#box {
+    background-color: rgba(135, 235, 215, 0.7);
+    width: 600px;
+    padding-top: 30px;
+    margin: 25px auto;
+    border-radius: 10px;
+    padding-bottom: 20px;
+}
+#top {
+    padding-bottom: 40px;
+}
+#inputname {
+
+    font-size: 15px; ;
+}
+
+#mainimg {
+        padding-top: 30px;
+
+
+
+}
+
+#stats{
+    border-collapse: collapse;
+    display: none;
+  }
+td {
+    padding: 7px;
+    text-align: left;
+  }
